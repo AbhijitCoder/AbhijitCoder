@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhijit Bag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
+- 👀 I’m interested in Java, Python
+- 🌱 I’m currently learning SQL 
 - 📫 How to reach me: abhijitbag31@gmail.com
 
 <!---
