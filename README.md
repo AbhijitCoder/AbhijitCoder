@@ -52,23 +52,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/abhijit-bag-a34439332/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:abhijitbag31@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-## 👀 Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
-
----
 
 <p align="center">
 ⭐ <i>"Code. Debug. Learn. Repeat."</i> ⭐
