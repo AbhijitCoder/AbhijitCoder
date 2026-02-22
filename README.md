@@ -48,12 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-🔹 **[Project Name]** – Short description  
-🔹 **[Project Name]** – Short description  
-🔹 **[Project Name]** – Short description  
-
----
 
 ## 🌐 Connect With Me
 
