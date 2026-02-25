@@ -1,6 +1,6 @@
 <!-- HEADER / INTRO -->
 <h1 align="center">Hi 👋, I'm Abhijit Bag</h1>
-<h3 align="center">🚀 CSE Student | 💻 Developer | 🤖 Tech Enthusiast</h3>
+<h3 align="center">🚀 CSE Studentt | 💻 Developerr | 🤖 Tech Enthusiastt</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
