@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About M
+## 🧠 About Me
 - 🎓 I'm a **Computer Science & Engineering Student**
 - 🌱 Currently learning **AI/ML**
 - 💡 Interested in **Web Dev / AI-ML / Cybersecurity / etc**
