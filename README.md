@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activit
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijitCoder&theme=tokyonight&hide_border=true&background=ffffff" height="180"/>
