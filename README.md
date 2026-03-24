@@ -1,6 +1,6 @@
 <!-- SUBTLE HEADER -->
 <h1 align="center">Hi 👋, I'm Abhijit Bag</h1>
-Welcome
+<p align="center">Welcome</p>
 <p align="center">
   🚀 CSE Student • 💻 Backend Developer • 🤖 Problem Solver
 </p>
